@@ -45,3 +45,15 @@ Clone the repository and install the necessary dependencies:
 git clone https://github.com/yourusername/housing-price-prediction.git
 cd housing-price-prediction
 pip install -r requirements.txt
+```
+
+## Usage
+```bash
+python housing_price_predictor.py
+```
+
+## Evaluation
+The model's performance is evaluated using the following metrics:
+
+Mean Squared Error (MSE)
+R² score: A measure of how well the model fits the data.
